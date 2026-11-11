@@ -51,7 +51,7 @@ The core joint-embedding predictive architectures and their training objectives 
 
 | Paper | arXiv | Published | Code |
 |---|---|---|---|
-| [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733) | 2006.07733 | NeurIPS 2020 | [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research)<br>[lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch) (unofficial)<br>[lucidrains/dreamer4](https://github.com/lucidrains/dreamer4) (unofficial) |
+| [Bootstrap your own latent: A new approach to self-supervised Learning](https://arxiv.org/abs/2006.07733) | 2006.07733 | NeurIPS 2020 | [google-deepmind/deepmind-research](https://github.com/google-deepmind/deepmind-research)<br>[lucidrains/byol-pytorch](https://github.com/lucidrains/byol-pytorch) (unofficial) |
 | [VICReg: Variance-Invariance-Covariance Regularization for Self-Supervised Learning](https://arxiv.org/abs/2105.04906) | 2105.04906 | ICLR 2022 | [facebookresearch/vicreg](https://github.com/facebookresearch/vicreg)<br>[jolibrain/vicreg-loss](https://github.com/jolibrain/vicreg-loss) (unofficial) |
 | [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) | 2301.08243 | [CVPR 2023](https://doi.org/10.1109/CVPR52729.2023.01499) | [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa)<br>[gaasher/I-JEPA](https://github.com/gaasher/I-JEPA) (unofficial) |
 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) | 2304.07193 | TMLR 2024 | [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) |
@@ -194,7 +194,7 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 
 | Paper | arXiv | Published | Code |
 |---|---|---|---|
-| [Hamiltonian Neural Networks](https://arxiv.org/abs/1906.01563) | 1906.01563 | NeurIPS 2019 | [DarioPenagos/Hamiltonian-Neural-Networks](https://github.com/DarioPenagos/Hamiltonian-Neural-Networks) (unofficial)<br>[a-b-h-a-y-s-h-i-n-d-e/Hamiltonian_Neural_Network](https://github.com/a-b-h-a-y-s-h-i-n-d-e/Hamiltonian_Neural_Network) (unofficial) |
+| [Hamiltonian Neural Networks](https://arxiv.org/abs/1906.01563) | 1906.01563 | NeurIPS 2019 | [greydanus/hamiltonian-nn](https://github.com/greydanus/hamiltonian-nn)<br>[DarioPenagos/Hamiltonian-Neural-Networks](https://github.com/DarioPenagos/Hamiltonian-Neural-Networks) (unofficial)<br>[a-b-h-a-y-s-h-i-n-d-e/Hamiltonian_Neural_Network](https://github.com/a-b-h-a-y-s-h-i-n-d-e/Hamiltonian_Neural_Network) (unofficial) |
 | [LagNetViP: A Lagrangian Neural Network for Video Prediction](https://arxiv.org/abs/2010.12932) | 2010.12932 |  |  |
 | [Robust and Safe Autonomous Navigation for Systems with Learned SE(3) Hamiltonian Dynamics](https://arxiv.org/abs/2207.10840) | 2207.10840 | [IEEE Open Journal of Control Systems 2022](https://doi.org/10.1109/OJCSYS.2022.3201554) |  |
 | [Uncertainty Representations in State-Space Layers for Deep Reinforcement Learning under Partial Observability](https://arxiv.org/abs/2409.16824) | 2409.16824 |  |  |
@@ -298,17 +298,17 @@ Reconstruction-based and Dreamer-style latent world models (World Models, Dreame
 
 | Paper | arXiv | Published | Code |
 |---|---|---|---|
-| [World Models](https://arxiv.org/abs/1803.10122) | 1803.10122 |  | [AppliedDataSciencePartners/WorldModels](https://github.com/AppliedDataSciencePartners/WorldModels) (unofficial) |
-| [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) | 1809.01999 | NeurIPS 2018 |  |
+| [World Models](https://arxiv.org/abs/1803.10122) | 1803.10122 |  | [hardmaru/WorldModelsExperiments](https://github.com/hardmaru/WorldModelsExperiments)<br>[AppliedDataSciencePartners/WorldModels](https://github.com/AppliedDataSciencePartners/WorldModels) (unofficial) |
+| [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) | 1809.01999 | NeurIPS 2018 | [hardmaru/WorldModelsExperiments](https://github.com/hardmaru/WorldModelsExperiments) |
 | [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) | 1811.04551 | [ICML 2019](https://proceedings.mlr.press/v97/hafner19a.html) | [google-research/planet](https://github.com/google-research/planet)<br>[cross32768/PlaNet_PyTorch](https://github.com/cross32768/PlaNet_PyTorch) (unofficial) |
-| [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603) | 1912.01603 | ICLR 2020 | [cross32768/Dreamer_PyTorch](https://github.com/cross32768/Dreamer_PyTorch) (unofficial)<br>[minhphd/PyDreamerV1](https://github.com/minhphd/PyDreamerV1) (unofficial) |
+| [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603) | 1912.01603 | ICLR 2020 | [danijar/dreamer](https://github.com/danijar/dreamer)<br>[cross32768/Dreamer_PyTorch](https://github.com/cross32768/Dreamer_PyTorch) (unofficial)<br>[minhphd/PyDreamerV1](https://github.com/minhphd/PyDreamerV1) (unofficial) |
 | [PlaNet of the Bayesians: Reconsidering and Improving Deep Planning Network by Incorporating Bayesian Inference](https://arxiv.org/abs/2003.00370) | 2003.00370 | [IROS 2020](https://doi.org/10.1109/iros45743.2020.9340873) |  |
-| [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) | 2010.02193 | ICLR 2021 | [sai-prasanna/dreamerv2_torch](https://github.com/sai-prasanna/dreamerv2_torch) (unofficial) |
-| [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176) | 2206.14176 | CoRL 2022 |  |
+| [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) | 2010.02193 | ICLR 2021 | [danijar/dreamerv2](https://github.com/danijar/dreamerv2)<br>[sai-prasanna/dreamerv2_torch](https://github.com/sai-prasanna/dreamerv2_torch) (unofficial) |
+| [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176) | 2206.14176 | CoRL 2022 | [danijar/daydreamer](https://github.com/danijar/daydreamer) |
 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | 2301.04104 | [Nature 2025](https://doi.org/10.1038/s41586-025-08744-2) | [danijar/dreamerv3](https://github.com/danijar/dreamerv3)<br>[NM512/dreamerv3-torch](https://github.com/NM512/dreamerv3-torch) (unofficial) |
 | [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://arxiv.org/abs/2310.16828) | 2310.16828 | ICLR 2024 | [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) |
 | [Port-Hamiltonian Neural ODE Networks on Lie Groups For Robot Dynamics Learning and Control](https://arxiv.org/abs/2401.09520) | 2401.09520 | [IEEE Transactions on Robotics 2024](https://doi.org/10.1109/TRO.2024.3428433) | [thaipduong/LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL) |
-| [Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](https://arxiv.org/abs/2501.10100) | 2501.10100 |  | [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model)<br>[leggedrobotics/robotic_world_model_lite](https://github.com/leggedrobotics/robotic_world_model_lite) (unofficial) |
+| [Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](https://arxiv.org/abs/2501.10100) | 2501.10100 |  | [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) |
 | [Training Agents Inside of Scalable World Models](https://arxiv.org/abs/2509.24527) | 2509.24527 |  | [nicklashansen/dreamer4](https://github.com/nicklashansen/dreamer4) (unofficial)<br>[lucidrains/dreamer4](https://github.com/lucidrains/dreamer4) (unofficial) |
 | [PH-Dreamer: A Physics-Driven World Model via Port-Hamiltonian Generative Dynamics](https://arxiv.org/abs/2605.18303) | 2605.18303 |  |  |
 | [Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination](https://arxiv.org/abs/2607.19719) | 2607.19719 |  |  |
