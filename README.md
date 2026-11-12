@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 11 November 2026.
+Last updated: 12 November 2026.
 
 ## Surveys and position papers
 
@@ -104,29 +104,13 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | Paper | arXiv | Published | Code |
 |---|---|---|---|
 | [NeuroBEM: Hybrid Aerodynamic Quadrotor Model](https://arxiv.org/abs/2106.08015) | 2106.08015 | [RSS 2021](https://doi.org/10.15607/RSS.2021.XVII.042) |  |
-| [FAST-LIO2: Fast Direct LiDAR-inertial Odometry](https://arxiv.org/abs/2107.06829) | 2107.06829 | [IEEE T-RO 2022](https://doi.org/10.1109/tro.2022.3141876) | [hku-mars/FAST_LIO](https://github.com/hku-mars/FAST_LIO)<br>[p20030920p/SLAM_Learning](https://github.com/p20030920p/SLAM_Learning) (unofficial) |
 | [KNODE-MPC: A Knowledge-based Data-driven Predictive Control Framework for Aerial Robots](https://arxiv.org/abs/2109.04821) | 2109.04821 | [IEEE RA-L 2022](https://doi.org/10.1109/LRA.2022.3144787) |  |
-| [NTU VIRAL: A Visual-Inertial-Ranging-Lidar Dataset, From an Aerial Vehicle Viewpoint](https://arxiv.org/abs/2202.00379) | 2202.00379 | [IJRR 2021](https://doi.org/10.1177/02783649211052312) |  |
 | [Neural-Fly Enables Rapid Learning for Agile Flight in Strong Winds](https://arxiv.org/abs/2205.06908) | 2205.06908 | [Science Robotics 2022](https://doi.org/10.1126/scirobotics.abm6597) | [aerorobotics/neural-fly](https://github.com/aerorobotics/neural-fly) |
-| [PL-EVIO: Robust Monocular Event-based Visual Inertial Odometry with Point and Line Features](https://arxiv.org/abs/2209.12160) | 2209.12160 | [IEEE Transactions on Automation Science and Engineering 2024](https://doi.org/10.1109/tase.2023.3324365) |  |
-| [ESVIO: Event-based Stereo Visual Inertial Odometry](https://arxiv.org/abs/2212.13184) | 2212.13184 | [IEEE RA-L 2023](https://doi.org/10.1109/lra.2023.3269950) |  |
-| [MINS: Efficient and Robust Multisensor-aided Inertial Navigation System](https://arxiv.org/abs/2309.15390) | 2309.15390 | [Journal of Field Robotics 2025](https://doi.org/10.1002/rob.22546) |  |
-| [FAST-LIVO2: Fast, Direct LiDAR-Inertial-Visual Odometry](https://arxiv.org/abs/2408.14035) | 2408.14035 | [IEEE T-RO 2025](https://doi.org/10.1109/tro.2024.3502198) | [hku-mars/FAST-LIVO2](https://github.com/hku-mars/FAST-LIVO2) |
-| [Swarm-LIO2: Decentralized, Efficient LiDAR-inertial Odometry for UAV Swarms](https://arxiv.org/abs/2409.17798) | 2409.17798 | [IEEE T-RO 2025](https://doi.org/10.1109/tro.2024.3522155) | [hku-mars/Swarm-LIO2](https://github.com/hku-mars/Swarm-LIO2) |
 | [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) | 2411.04983 | [ICML 2025](https://proceedings.mlr.press/v267/zhou25t.html) | [gaoyuezhou/dino_wm](https://github.com/gaoyuezhou/dino_wm)<br>[liuchangjie7/DINO-WM-Metadrive](https://github.com/liuchangjie7/DINO-WM-Metadrive) (unofficial) |
-| [FAST-LIVO2 on Resource-Constrained Platforms: LiDAR-Inertial-Visual Odometry with Efficient Memory and Computation](https://arxiv.org/abs/2501.13876) | 2501.13876 | [IEEE RA-L 2025](https://doi.org/10.1109/lra.2025.3581125) |  |
 | [Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight](https://arxiv.org/abs/2501.14377) | 2501.14377 | [ICRA 2026](https://doi.org/10.1109/ICRA57385.2026.11695931) |  |
-| [Aerial Gym Simulator: A Framework for Highly Parallelized Simulation of Aerial Robots](https://arxiv.org/abs/2503.01471) | 2503.01471 | [IEEE RA-L 2025](https://doi.org/10.1109/lra.2025.3548507) |  |
-| [cuVSLAM: CUDA accelerated visual odometry and mapping](https://arxiv.org/abs/2506.04359) | 2506.04359 |  |  |
-| [FAST-Calib: LiDAR-Camera Extrinsic Calibration in One Second](https://arxiv.org/abs/2507.17210) | 2507.17210 | [IEEE Robotics and Automation Practice 2026](https://doi.org/10.1109/rap.2026.3692446) | [hku-mars/FAST-Calib](https://github.com/hku-mars/FAST-Calib) |
-| [D^2-LIO: Enhanced Optimization for LiDAR-IMU Odometry Considering Directional Degeneracy](https://arxiv.org/abs/2508.14355) | 2508.14355 |  |  |
-| [DiffAero: A GPU-Accelerated Differentiable Simulation Framework for Efficient Quadrotor Policy Learning](https://arxiv.org/abs/2509.10247) | 2509.10247 |  | [flyingbitac/diffaero](https://github.com/flyingbitac/diffaero) |
 | [Active Inference-Driven World Modeling for Adaptive UAV Swarm Trajectory Design](https://arxiv.org/abs/2601.12939) | 2601.12939 |  |  |
 | [Flying by Inference: Active Inference World Models for Adaptive UAV Swarms](https://arxiv.org/abs/2604.27935) | 2604.27935 |  |  |
-| [AERO-VIS: Asynchronous Event-based Real-time Onboard Visual-Inertial SLAM](https://arxiv.org/abs/2605.07885) | 2605.07885 | [IEEE RA-L 2026](https://doi.org/10.1109/lra.2026.3726392) |  |
-| [MAD: Mapping-Aware World Models for Agile Quadrotor Flight](https://arxiv.org/abs/2606.04534) | 2606.04534 |  |  |
 | [SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors](https://arxiv.org/abs/2606.23444) | 2606.23444 |  |  |
-| [Flight-Ready LiDAR-Inertial Odometry for Embedded Drone Platforms](https://arxiv.org/abs/2607.22145) | 2607.22145 |  |  |
 | [AquaJEPA: An Action-Conditioned Multimodal JEPA Family for Underwater Robot Dynamics](https://arxiv.org/abs/2607.29393) | 2607.29393 |  |  |
 | [JEPLO: Joint-Embedding Predictive Learning for LiDAR-Based Legged Locomotion](https://arxiv.org/abs/2609.15770) | 2609.15770 |  | [ASIG-X/JEPLO](https://github.com/ASIG-X/JEPLO) |
 | [DroneWAM: Efficient World Action Model for Drone Visual Navigation](https://arxiv.org/abs/2609.33148) | 2609.33148 |  | [1e12Leon/DroneWAM](https://github.com/1e12Leon/DroneWAM) |
@@ -285,7 +269,6 @@ Point-cloud, depth, LiDAR, 3D-scene, object-centric and graph-structured predict
 | [Semantic Belief-State World Model for 3D Human Motion Prediction](https://arxiv.org/abs/2601.03517) | 2601.03517 |  |  |
 | [Causal-JEPA: Learning World Models through Object-Level Latent Masking](https://arxiv.org/abs/2602.11389) | 2602.11389 | ICML 2026 | [galilai-group/cjepa](https://github.com/galilai-group/cjepa)<br>[Maverick-Ansh/causal-jepa-repro](https://github.com/Maverick-Ansh/causal-jepa-repro) (unofficial) |
 | [Self-Supervised JEPA-based World Models for LiDAR Occupancy Completion and Forecasting](https://arxiv.org/abs/2602.12540) | 2602.12540 |  |  |
-| [Le MuMo JEPA: Multi-Modal Self-Supervised Representation Learning with Learnable Fusion Tokens](https://arxiv.org/abs/2603.24327) | 2603.24327 |  | [ciemcornelissen/le-mumo-jepa](https://github.com/ciemcornelissen/le-mumo-jepa) |
 | [UWM-JEPA: Predictive World Models That Imagine in Belief Space](https://arxiv.org/abs/2605.25313) | 2605.25313 |  | [santoshkumarradha/uwm-jepa](https://github.com/santoshkumarradha/uwm-jepa) |
 | [Neural Voxel Dynamics: Learning Volumetric Feature Advection for 3D Physics in V-JEPA Latent Space](https://arxiv.org/abs/2606.26410) | 2606.26410 |  |  |
 | [J-LAW: Joint Localization and Action-Conditioned World Modeling via Coupled Latent Factor Graphs](https://arxiv.org/abs/2606.28712) | 2606.28712 |  |  |
