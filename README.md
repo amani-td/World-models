@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 12 November 2026.
+Last updated: 13 November 2026.
 
 ## Surveys and position papers
 
@@ -96,6 +96,12 @@ The core joint-embedding predictive architectures and their training objectives 
 | [An Energy-Based Perspective on Machine Learning](https://arxiv.org/abs/2611.14383) | 2611.14383 |  |  |
 | [OnlyAct: Extracting Action Representations from Foundation Models for World Models](https://arxiv.org/abs/2611.14420) | 2611.14420 |  | [runjiali-rl/onlyact](https://github.com/runjiali-rl/onlyact) |
 | [RS-JEPA: Remote Sensing Joint-Embedding Predictive Architecture with Scan-Path Views for Cross-Sensor Image Retrieval](https://arxiv.org/abs/2611.14496) | 2611.14496 |  | [Tanishq251/RSJEPA](https://github.com/Tanishq251/RSJEPA) |
+| [The Posterior-Prior Epistemic Gap: When World Model Imagination Fails to Carry Task-Relevant Signals](https://arxiv.org/abs/2611.14955) | 2611.14955 |  |  |
+| [Same-State Pairs Make One JEPA Proof of the Platonic Representation Hypothesis Vacuous](https://arxiv.org/abs/2611.16182) | 2611.16182 |  |  |
+| [Context-Predictive Low-Rank Adaptation for Face Presentation Attack Detection](https://arxiv.org/abs/2611.16534) | 2611.16534 |  | [aminuyusufmr/cp_jepa](https://github.com/aminuyusufmr/cp_jepa) |
+| [ActWorld-JEPA: Action-Conditioned JEPA World Models Meet Latent Planning for End-to-End Autonomous Driving](https://arxiv.org/abs/2611.16579) | 2611.16579 |  | [adept-thu/ActWorld-JEPA](https://github.com/adept-thu/ActWorld-JEPA) |
+| [Your Vision Foundation Model Is Secretly an EEG Foundation Model](https://arxiv.org/abs/2611.17031) | 2611.17031 |  |  |
+| [HiVE-VQA: Hierarchical Interaction via Volumetric Embedding for Video Quality Assessment](https://arxiv.org/abs/2611.17146) | 2611.17146 |  | RobHam99/HiVE-VQA (announced, not public yet) |
 
 ## Robotics and aerial applications
 
@@ -132,6 +138,10 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | [Action Representation for Spatial Generalization in Robot World Models](https://arxiv.org/abs/2611.11869) | 2611.11869 |  |  |
 | [Compass 1: Towards Open-World and Persistent Embodied Navigation from Monocular RGB Videos](https://arxiv.org/abs/2611.12087) | 2611.12087 |  | [OpenDriveLab/Compass](https://github.com/OpenDriveLab/Compass) |
 | [DeRep: Learning Depth Representations for End-to-End Navigation in Cluttered Environments](https://arxiv.org/abs/2611.13499) | 2611.13499 |  |  |
+| [CommJEPA: When Predictive Representation Learning Meets Wireless Intelligence](https://arxiv.org/abs/2611.14961) | 2611.14961 |  |  |
+| [Test-Time Selective Adaptation for Cross-Modal UAV Object Tracking with Token Shift](https://arxiv.org/abs/2611.15059) | 2611.15059 |  |  |
+| [APG-Planner: Learning Vision-Based High-Speed Trajectory Planning via Analytic Policy Gradient](https://arxiv.org/abs/2611.15296) | 2611.15296 |  |  |
+| [Empowering AI towards 6G: Realistic UAV Channel Data Acquisition using Open-Source Solutions](https://arxiv.org/abs/2611.16644) | 2611.16644 |  |  |
 
 ## Action-conditioned models and planning
 
@@ -194,6 +204,7 @@ Models that predict the effect of actions and are used for planning or policy le
 | [Σ-LeWM: Learning World Models via S-Information for Robot Control](https://arxiv.org/abs/2611.12732) | 2611.12732 |  | [zuxinrui/sigma-lewm](https://github.com/zuxinrui/sigma-lewm) |
 | [Building World Models from Intrinsic Motivation](https://arxiv.org/abs/2611.13113) | 2611.13113 |  |  |
 | [Few-Shot Residual Adaptation of Pretrained Latent World Models](https://arxiv.org/abs/2611.13592) | 2611.13592 |  |  |
+| [Prediction or Persistence? What Future-Prediction Scores Miss About World Models](https://arxiv.org/abs/2611.15082) | 2611.15082 |  |  |
 
 ## Latent dynamics, physics structure and theory
 
@@ -253,6 +264,11 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [Good Views Are Not Enough: Global Counterexamples for Gaussian-Regularized JEPAs](https://arxiv.org/abs/2611.12137) | 2611.12137 |  |  |
 | [ProTEUS: A mutation-resolved world model for closed-loop protein evolution](https://arxiv.org/abs/2611.13348) | 2611.13348 |  | [yikunpku/ProTEUS](https://github.com/yikunpku/ProTEUS) |
 | [Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning](https://arxiv.org/abs/2611.14419) | 2611.14419 |  |  |
+| [FOE-Dreamer: Deployment-Efficient Learning of Cyber Defense Policies in Operational Networks](https://arxiv.org/abs/2611.14880) | 2611.14880 |  |  |
+| [Relative-energy stabilization of an irreversible port-Hamiltonian tubular reactor](https://arxiv.org/abs/2611.15088) | 2611.15088 |  |  |
+| [Interactive Perception of Granular Materials via Robotic Scooping and Force-Torque Sensing](https://arxiv.org/abs/2611.15339) | 2611.15339 |  |  |
+| [Asymmetric Multimodal Learning with Decomposed JEPAs](https://arxiv.org/abs/2611.16639) | 2611.16639 |  | [Vixel2006/D-JEPA](https://github.com/Vixel2006/D-JEPA) |
+| [InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling](https://arxiv.org/abs/2611.16647) | 2611.16647 |  |  |
 
 ## 3D, spatial and object-centric models
 
@@ -302,6 +318,8 @@ Point-cloud, depth, LiDAR, 3D-scene, object-centric and graph-structured predict
 | [QCC-WM: Linking Macro-State Dynamics and Visual Generation via Quotient Causal Construction](https://arxiv.org/abs/2611.12353) | 2611.12353 |  |  |
 | [LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning](https://arxiv.org/abs/2611.14048) | 2611.14048 |  |  |
 | [From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models](https://arxiv.org/abs/2611.14365) | 2611.14365 |  | [showlab/MetaWAM](https://github.com/showlab/MetaWAM) |
+| [CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models](https://arxiv.org/abs/2611.15602) | 2611.15602 |  |  |
+| [Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](https://arxiv.org/abs/2611.17318) | 2611.17318 |  |  |
 
 ## Related non-JEPA world models
 
