@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 13 November 2026.
+Last updated: 16 November 2026.
 
 ## Surveys and position papers
 
@@ -56,11 +56,11 @@ The core joint-embedding predictive architectures and their training objectives 
 | [Self-Supervised Learning from Images with a Joint-Embedding Predictive Architecture](https://arxiv.org/abs/2301.08243) | 2301.08243 | [CVPR 2023](https://doi.org/10.1109/CVPR52729.2023.01499) | [facebookresearch/ijepa](https://github.com/facebookresearch/ijepa)<br>[gaasher/I-JEPA](https://github.com/gaasher/I-JEPA) (unofficial) |
 | [DINOv2: Learning Robust Visual Features without Supervision](https://arxiv.org/abs/2304.07193) | 2304.07193 | TMLR 2024 | [facebookresearch/dinov2](https://github.com/facebookresearch/dinov2) |
 | [MC-JEPA: A Joint-Embedding Predictive Architecture for Self-Supervised Learning of Motion and Content Features](https://arxiv.org/abs/2307.12698) | 2307.12698 |  |  |
-| [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504) | 2403.00504 |  | [garrettallen14/JEPA-Image-World-Model](https://github.com/garrettallen14/JEPA-Image-World-Model) (unofficial) |
+| [Learning and Leveraging World Models in Visual Representation Learning](https://arxiv.org/abs/2403.00504) | 2403.00504 |  | [garrettallen14/JEPA-Image-World-Model](https://github.com/garrettallen14/JEPA-Image-World-Model) (unofficial)<br>[Sosolalt/Billard-VJEPA](https://github.com/Sosolalt/Billard-VJEPA) (unofficial) |
 | [Revisiting Feature Prediction for Learning Visual Representations from Video](https://arxiv.org/abs/2404.08471) | 2404.08471 | TMLR 2024 | [facebookresearch/jepa](https://github.com/facebookresearch/jepa) |
 | [Intuitive physics understanding emerges from self-supervised pretraining on natural videos](https://arxiv.org/abs/2502.11831) | 2502.11831 |  | [facebookresearch/jepa-intuitive-physics](https://github.com/facebookresearch/jepa-intuitive-physics) |
 | [V-JEPA 2: Self-Supervised Video Models Enable Understanding, Prediction and Planning](https://arxiv.org/abs/2506.09985) | 2506.09985 |  | [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) |
-| [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics](https://arxiv.org/abs/2511.08544) | 2511.08544 |  | [galilai-group/lejepa](https://github.com/galilai-group/lejepa) |
+| [LeJEPA: Provable and Scalable Self-Supervised Learning Without the Heuristics](https://arxiv.org/abs/2511.08544) | 2511.08544 |  | [galilai-group/lejepa](https://github.com/galilai-group/lejepa)<br>[lucidrains/vit-pytorch](https://github.com/lucidrains/vit-pytorch) (unofficial)<br>[lucidrains/dreamer4](https://github.com/lucidrains/dreamer4) (unofficial) |
 | [A Lightweight Library for Energy-Based Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2602.03604) | 2602.03604 | ICLR 2026 Workshop on World Models | [facebookresearch/eb_jepa](https://github.com/facebookresearch/eb_jepa) |
 | [V-JEPA 2.1: Unlocking Dense Features in Video Self-Supervised Learning](https://arxiv.org/abs/2603.14482) | 2603.14482 | [ECCV 2026](https://doi.org/10.1007/978-3-032-37369-4_36) | [facebookresearch/vjepa2](https://github.com/facebookresearch/vjepa2) |
 | [Beyond Isotropy in JEPAs: Hamiltonian Geometry and Symplectic Prediction](https://arxiv.org/abs/2605.20107) | 2605.20107 |  | [R02AJ/HamJEPA-HamSIGReg](https://github.com/R02AJ/HamJEPA-HamSIGReg) |
@@ -75,7 +75,7 @@ The core joint-embedding predictive architectures and their training objectives 
 | [DES-JEPA: Learning a Shared Vocabulary for High-Dimensional Discrete Event Sequences](https://arxiv.org/abs/2610.38445) | 2610.38445 |  |  |
 | [Explore Where It Matters: Targeted Exploration for Efficient Rover Adaptation](https://arxiv.org/abs/2610.38657) | 2610.38657 |  |  |
 | [Generating Critic-Guided Synthetic Experience in Latent World Models](https://arxiv.org/abs/2610.39100) | 2610.39100 |  |  |
-| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) | 2610.39302 |  | [galilai-group/prh-proof](https://github.com/galilai-group/prh-proof)<br>[kmsmohamedansar/prh-jepa](https://github.com/kmsmohamedansar/prh-jepa) (unofficial) |
+| [Proving and Improving the Platonic Representation Hypothesis with JEPAs](https://arxiv.org/abs/2610.39302) | 2610.39302 |  | [galilai-group/prh-proof](https://github.com/galilai-group/prh-proof)<br>[kmsmohamedansar/prh-jepa](https://github.com/kmsmohamedansar/prh-jepa) (unofficial)<br>[ansarbuilds/prh-jepa](https://github.com/ansarbuilds/prh-jepa) (unofficial) |
 | [Cheap Retrieval and Observation Credit Assignment from One Quantity: The Value of Information](https://arxiv.org/abs/2610.40030) | 2610.40030 |  |  |
 | [Latent Prediction Yields Cross-Subject Alignable Representations in Sensory-Evoked fMRI](https://arxiv.org/abs/2610.40280) | 2610.40280 |  |  |
 | [JEDI: Joint-Embedding Demonstration Compression for In-Context Imitation Learning](https://arxiv.org/abs/2610.40356) | 2610.40356 |  |  |
@@ -114,7 +114,7 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | [Neural-Fly Enables Rapid Learning for Agile Flight in Strong Winds](https://arxiv.org/abs/2205.06908) | 2205.06908 | [Science Robotics 2022](https://doi.org/10.1126/scirobotics.abm6597) | [aerorobotics/neural-fly](https://github.com/aerorobotics/neural-fly) |
 | [DINO-WM: World Models on Pre-trained Visual Features enable Zero-shot Planning](https://arxiv.org/abs/2411.04983) | 2411.04983 | [ICML 2025](https://proceedings.mlr.press/v267/zhou25t.html) | [gaoyuezhou/dino_wm](https://github.com/gaoyuezhou/dino_wm)<br>[liuchangjie7/DINO-WM-Metadrive](https://github.com/liuchangjie7/DINO-WM-Metadrive) (unofficial) |
 | [Dream to Fly: Model-Based Reinforcement Learning for Vision-Based Drone Flight](https://arxiv.org/abs/2501.14377) | 2501.14377 | [ICRA 2026](https://doi.org/10.1109/ICRA57385.2026.11695931) |  |
-| [Active Inference-Driven World Modeling for Adaptive UAV Swarm Trajectory Design](https://arxiv.org/abs/2601.12939) | 2601.12939 |  |  |
+| [Active Inference-Driven World Modeling for Adaptive UAV Swarm Trajectory Design](https://arxiv.org/abs/2601.12939) | 2601.12939 | [ICASSP 2026 - 2026 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) 2026](https://doi.org/10.1109/icassp55912.2026.11465094) |  |
 | [Flying by Inference: Active Inference World Models for Adaptive UAV Swarms](https://arxiv.org/abs/2604.27935) | 2604.27935 |  |  |
 | [SkyJEPA: Learning Long-Horizon World Models for Zero-Shot Sim-to-Real Control of Quadrotors](https://arxiv.org/abs/2606.23444) | 2606.23444 |  |  |
 | [AquaJEPA: An Action-Conditioned Multimodal JEPA Family for Underwater Robot Dynamics](https://arxiv.org/abs/2607.29393) | 2607.29393 |  |  |
@@ -141,7 +141,8 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | [CommJEPA: When Predictive Representation Learning Meets Wireless Intelligence](https://arxiv.org/abs/2611.14961) | 2611.14961 |  |  |
 | [Test-Time Selective Adaptation for Cross-Modal UAV Object Tracking with Token Shift](https://arxiv.org/abs/2611.15059) | 2611.15059 |  |  |
 | [APG-Planner: Learning Vision-Based High-Speed Trajectory Planning via Analytic Policy Gradient](https://arxiv.org/abs/2611.15296) | 2611.15296 |  |  |
-| [Empowering AI towards 6G: Realistic UAV Channel Data Acquisition using Open-Source Solutions](https://arxiv.org/abs/2611.16644) | 2611.16644 |  |  |
+| [Empowering AI towards 6G: Realistic UAV Channel Data Acquisition using Open-Source Solutions](https://arxiv.org/abs/2611.16644) | 2611.16644 | [2026 IEEE 103rd Vehicular Technology Conference (VTC2026-Spring) 2026](https://doi.org/10.1109/vtc2026-spring68026.2026.11756739) |  |
+| [Policy-Conditioned Koopman Representations for Parameterized Closed-Loop Systems](https://arxiv.org/abs/2611.18451) | 2611.18451 |  | [kirangkrishnan/Parameterized-Koopman](https://github.com/kirangkrishnan/Parameterized-Koopman) |
 
 ## Action-conditioned models and planning
 
@@ -159,15 +160,15 @@ Models that predict the effect of actions and are used for planning or policy le
 | [AnySafe: Adapting Latent Safety Filters at Runtime via Safety Constraint Parameterization in the Latent Space](https://arxiv.org/abs/2509.19555) | 2509.19555 | [ICRA 2026](https://doi.org/10.1109/icra57385.2026.11696562) |  |
 | [How Well Do Latent World Models Understand Partially Observable Safety Constraints?](https://arxiv.org/abs/2510.06492) | 2510.06492 | CoRL 2026 (accepted) |  |
 | [What Drives Success in Physical Planning with Joint-Embedding Predictive World Models?](https://arxiv.org/abs/2512.24497) | 2512.24497 | TMLR 2025 | [facebookresearch/jepa-wms](https://github.com/facebookresearch/jepa-wms) |
-| [Value-guided action planning with JEPA world models](https://arxiv.org/abs/2601.00844) | 2601.00844 |  |  |
+| [Value-guided action planning with JEPA world models](https://arxiv.org/abs/2601.00844) | 2601.00844 |  | [ArthurVigier/hjepa-moe](https://github.com/ArthurVigier/hjepa-moe) (unofficial) |
 | [VLA-JEPA: Enhancing Vision-Language-Action Model with Latent World Model](https://arxiv.org/abs/2602.10098) | 2602.10098 | [ECCV 2026](https://doi.org/10.1007/978-3-032-37196-6_26) | [ginwind/VLA-JEPA](https://github.com/ginwind/VLA-JEPA)<br>[AmoghShrivastava/vlaJEPA](https://github.com/AmoghShrivastava/vlaJEPA) (unofficial) |
 | [JEPA-Bisim: Learning Robust Visual Representations for Planning with Joint-Embedding Predictive World Models](https://arxiv.org/abs/2602.18639) | 2602.18639 |  | [jd-anderson/dino_bsmpc](https://github.com/jd-anderson/dino_bsmpc) |
-| [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312) | 2603.19312 |  | [lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)<br>[gandhiashutosh14/lewm-t4](https://github.com/gandhiashutosh14/lewm-t4) (unofficial) |
-| [Hierarchical Planning with Latent World Models](https://arxiv.org/abs/2604.03208) | 2604.03208 | CoRL 2026 (accepted) | [kevinghst/HWM_PLDM](https://github.com/kevinghst/HWM_PLDM) |
-| [ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC](https://arxiv.org/abs/2605.04709) | 2605.04709 |  |  |
+| [LeWorldModel: Stable End-to-End Joint-Embedding Predictive Architecture from Pixels](https://arxiv.org/abs/2603.19312) | 2603.19312 |  | [lucas-maes/le-wm](https://github.com/lucas-maes/le-wm)<br>[gandhiashutosh14/lewm-t4](https://github.com/gandhiashutosh14/lewm-t4) (unofficial)<br>[lucidrains/dreamer4](https://github.com/lucidrains/dreamer4) (unofficial)<br>[zyh571/minLeWM](https://github.com/zyh571/minLeWM) (unofficial) |
+| [Hierarchical Planning with Latent World Models](https://arxiv.org/abs/2604.03208) | 2604.03208 | CoRL 2026 (accepted) | [kevinghst/HWM_PLDM](https://github.com/kevinghst/HWM_PLDM)<br>[lonerapier/wm](https://github.com/lonerapier/wm) (unofficial) |
+| [ELVIS: Ensemble-Calibrated Latent Imagination for Long-Horizon Visual MPC](https://arxiv.org/abs/2605.04709) | 2605.04709 | [RSS 2026](https://doi.org/10.15607/rss.2026.xxii.182) |  |
 | [PLUME: Probabilistic Latent Unified World Modeling and Parameter Estimation for Multi-Finger Manipulation](https://arxiv.org/abs/2606.11396) | 2606.11396 |  |  |
 | [Delta-JEPA: Learning Action-Sensitive World Models via Latent Difference Decoding](https://arxiv.org/abs/2606.31232) | 2606.31232 |  |  |
-| [Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control](https://arxiv.org/abs/2607.25337) | 2607.25337 |  | [HKBU-KnowComp/Temporal-Distance-JEPA](https://github.com/HKBU-KnowComp/Temporal-Distance-JEPA) |
+| [Temporal-Distance JEPA: Plan-Aware Representation Learning for Latent World Model Predictive Control](https://arxiv.org/abs/2607.25337) | 2607.25337 |  | [HKBU-KnowComp/Temporal-Distance-JEPA](https://github.com/HKBU-KnowComp/Temporal-Distance-JEPA)<br>[omelas-tech/wm-eval](https://github.com/omelas-tech/wm-eval) (unofficial)<br>[lonerapier/wm](https://github.com/lonerapier/wm) (unofficial) |
 | [JEPA-WAM: Learning Vision-Language-Action Policies with Joint-Embedding World Modeling](https://arxiv.org/abs/2608.09381) | 2608.09381 |  | [SpriteWithoutIce/JEPA_WAM](https://github.com/SpriteWithoutIce/JEPA_WAM) |
 | [StageWAM: Joint-Embedding Stage Prediction for World-Action Models in Robot Manipulation](https://arxiv.org/abs/2608.10780) | 2608.10780 |  |  |
 | [Diagnosing JEPA World Models with Action-Conditioned Predictive Consistency](https://arxiv.org/abs/2608.12939) | 2608.12939 |  | [Anguo-star/acpc-diagnostics](https://github.com/Anguo-star/acpc-diagnostics) |
@@ -177,9 +178,9 @@ Models that predict the effect of actions and are used for planning or policy le
 | [D-JEPA: A Decision-Aligned Latent World Model](https://arxiv.org/abs/2609.24749) | 2609.24749 |  | [NEBULIS-Lab/D-JEPA](https://github.com/NEBULIS-Lab/D-JEPA) |
 | [CF-JEPA: Improving Robustness of JEPA World Models via Controllability Factorization](https://arxiv.org/abs/2610.00727) | 2610.00727 |  |  |
 | [TwinJEPA: Action-Preferred Predictive Representations for Goal-Conditioned Control](https://arxiv.org/abs/2610.02922) | 2610.02922 |  | [NICE-HKU/Twin-JEPA](https://github.com/NICE-HKU/Twin-JEPA) |
-| [H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning](https://arxiv.org/abs/2610.06805) | 2610.06805 |  | [kevinghst/H-JEPA](https://github.com/kevinghst/H-JEPA)<br>[zuiailaoyouji/H-JEPA-reproduction](https://github.com/zuiailaoyouji/H-JEPA-reproduction) (unofficial) |
+| [H-JEPA: End-to-End Learning of Hierarchical World Models for Visual Planning](https://arxiv.org/abs/2610.06805) | 2610.06805 |  | [kevinghst/H-JEPA](https://github.com/kevinghst/H-JEPA)<br>[zuiailaoyouji/H-JEPA-reproduction](https://github.com/zuiailaoyouji/H-JEPA-reproduction) (unofficial)<br>[beck83879-bit/H-JEPA](https://github.com/beck83879-bit/H-JEPA) (unofficial)<br>[500mhzClub/Go2-JEPA-Navigation](https://github.com/500mhzClub/Go2-JEPA-Navigation) (unofficial) |
 | [A Belief-State World Model for Catheter Navigation under Sparse Fluoroscopy: A Planar Proof of Concept](https://arxiv.org/abs/2610.08469) | 2610.08469 |  |  |
-| [LeWAM: End-to-End World and Action Modeling with JEPAs](https://arxiv.org/abs/2610.12818) | 2610.12818 |  | [MinghaoFu/lewam](https://github.com/MinghaoFu/lewam) |
+| [LeWAM: End-to-End World and Action Modeling with JEPAs](https://arxiv.org/abs/2610.12818) | 2610.12818 |  | [MinghaoFu/lewam](https://github.com/MinghaoFu/lewam)<br>[lonerapier/wm](https://github.com/lonerapier/wm) (unofficial) |
 | [Adapt for Planning, Not just Prediction: Optimistic Test-Time World Model Adaptation](https://arxiv.org/abs/2610.35636) | 2610.35636 | CoRL 2026 Workshop | [akshaymete/optta](https://github.com/akshaymete/optta) |
 | [Cinematize from Unreal: Agentic Choreography for Controllable World Simulation](https://arxiv.org/abs/2610.38468) | 2610.38468 |  |  |
 | [Structural-Test Geometry as an Inductive Bias for Partially Observable World Models](https://arxiv.org/abs/2610.38903) | 2610.38903 |  |  |
@@ -219,17 +220,17 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [Learning Hamiltonian Dynamics with Bayesian Data Assimilation](https://arxiv.org/abs/2501.18808) | 2501.18808 |  |  |
 | [KILO-EKF: Koopman-Inspired Learned Observations Extended Kalman Filter](https://arxiv.org/abs/2601.12463) | 2601.12463 |  |  |
 | [VJEPA: Variational Joint Embedding Predictive Architectures as Probabilistic World Models](https://arxiv.org/abs/2601.14354) | 2601.14354 | [ICML 2026](https://icml.cc/virtual/2026/poster/61579) | [YongchaoHuang/VJEPA](https://github.com/YongchaoHuang/VJEPA) |
-| [From Gradients to Riccati Geometry: Kalman World Models for Single-Pass Learning](https://arxiv.org/abs/2603.13423) | 2603.13423 |  |  |
+| [From Gradients to Riccati Geometry: Kalman World Models for Single-Pass Learning](https://arxiv.org/abs/2603.13423) | 2603.13423 |  | [andrew-jeremy/Data-Driven-Variational-Basis-Learning](https://github.com/andrew-jeremy/Data-Driven-Variational-Basis-Learning) (unofficial) |
 | [Latent State Design for World Models under Sufficiency Constraints](https://arxiv.org/abs/2605.01694) | 2605.01694 |  |  |
 | [HaM-World: Soft-Hamiltonian World Models with Selective Memory for Planning](https://arxiv.org/abs/2605.05951) | 2605.05951 | NeurIPS 2026 (accepted) | [HaoyunT/HaM_World](https://github.com/HaoyunT/HaM_World) |
 | [Phys-JEPA: Physics-Informed Latent World Models for Multivariate Time-Series Forecasting](https://arxiv.org/abs/2606.16076) | 2606.16076 |  |  |
 | [A Control Theory of Predictability in Latent World Models](https://arxiv.org/abs/2607.10362) | 2607.10362 |  |  |
 | [Toward Goal-Agnostic Joint-Embedding Predictive Control of Partial Differential Equations](https://arxiv.org/abs/2607.21644) | 2607.21644 |  |  |
 | [SJEPA: Learning Elegant Latent Dynamics with Hybrid Symbolic-Neural Predictors](https://arxiv.org/abs/2608.04060) | 2608.04060 |  |  |
-| [PhyLatent: Learning Dynamics-Relevant Representations for JEPA World Models](https://arxiv.org/abs/2608.05720) | 2608.05720 |  | [Cherishings/PhyLatent](https://github.com/Cherishings/PhyLatent) |
+| [PhyLatent: Learning Dynamics-Relevant Representations for JEPA World Models](https://arxiv.org/abs/2608.05720) | 2608.05720 |  | [Cherishings/PhyLatent](https://github.com/Cherishings/PhyLatent)<br>[lonerapier/wm](https://github.com/lonerapier/wm) (unofficial) |
 | [Is Forward Prediction Enough? Physical State Grounding for JEPA World Models](https://arxiv.org/abs/2608.06799) | 2608.06799 |  | [Haodong-Yan/PSG-JEPA](https://github.com/Haodong-Yan/PSG-JEPA) |
 | [JEPA-x: Cross-Predictive Physics Grounding for Forecastable Latent Dynamics](https://arxiv.org/abs/2608.24044) | 2608.24044 |  | [wkh923/jepa-x](https://github.com/wkh923/jepa-x) |
-| [Flow-JEPA: Robust Latent Dynamics for JEPA World Models via Flow Matching](https://arxiv.org/abs/2608.29029) | 2608.29029 |  | [HuoYanchen/Flow-JEPA](https://github.com/HuoYanchen/Flow-JEPA) |
+| [Flow-JEPA: Robust Latent Dynamics for JEPA World Models via Flow Matching](https://arxiv.org/abs/2608.29029) | 2608.29029 |  | [HuoYanchen/Flow-JEPA](https://github.com/HuoYanchen/Flow-JEPA)<br>[lonerapier/wm](https://github.com/lonerapier/wm) (unofficial) |
 | [Semigroup-JEPA: Latent Dynamics Consistency for Zero-Shot Physics Generalization](https://arxiv.org/abs/2609.10464) | 2609.10464 |  |  |
 | [I Act Therefore I Am: When Is JEPA's Action-Conditioning Enough to Learn Causal Mechanisms?](https://arxiv.org/abs/2609.31161) | 2609.31161 |  |  |
 | [D-JEPA: Design-Recoverable JEPA Representation with Swappable Physics Decoders](https://arxiv.org/abs/2609.33110) | 2609.33110 |  |  |
@@ -331,13 +332,13 @@ Reconstruction-based and Dreamer-style latent world models (World Models, Dreame
 | [Recurrent World Models Facilitate Policy Evolution](https://arxiv.org/abs/1809.01999) | 1809.01999 | NeurIPS 2018 | [hardmaru/WorldModelsExperiments](https://github.com/hardmaru/WorldModelsExperiments) |
 | [Learning Latent Dynamics for Planning from Pixels](https://arxiv.org/abs/1811.04551) | 1811.04551 | [ICML 2019](https://proceedings.mlr.press/v97/hafner19a.html) | [google-research/planet](https://github.com/google-research/planet)<br>[cross32768/PlaNet_PyTorch](https://github.com/cross32768/PlaNet_PyTorch) (unofficial) |
 | [Dream to Control: Learning Behaviors by Latent Imagination](https://arxiv.org/abs/1912.01603) | 1912.01603 | ICLR 2020 | [danijar/dreamer](https://github.com/danijar/dreamer)<br>[cross32768/Dreamer_PyTorch](https://github.com/cross32768/Dreamer_PyTorch) (unofficial)<br>[minhphd/PyDreamerV1](https://github.com/minhphd/PyDreamerV1) (unofficial) |
-| [PlaNet of the Bayesians: Reconsidering and Improving Deep Planning Network by Incorporating Bayesian Inference](https://arxiv.org/abs/2003.00370) | 2003.00370 | [IROS 2020](https://doi.org/10.1109/iros45743.2020.9340873) |  |
+| [PlaNet of the Bayesians: Reconsidering and Improving Deep Planning Network by Incorporating Bayesian Inference](https://arxiv.org/abs/2003.00370) | 2003.00370 | [IROS 2020](https://doi.org/10.1109/iros45743.2020.9340873) | [google-research/planet](https://github.com/google-research/planet) |
 | [Mastering Atari with Discrete World Models](https://arxiv.org/abs/2010.02193) | 2010.02193 | ICLR 2021 | [danijar/dreamerv2](https://github.com/danijar/dreamerv2)<br>[sai-prasanna/dreamerv2_torch](https://github.com/sai-prasanna/dreamerv2_torch) (unofficial) |
 | [DayDreamer: World Models for Physical Robot Learning](https://arxiv.org/abs/2206.14176) | 2206.14176 | CoRL 2022 | [danijar/daydreamer](https://github.com/danijar/daydreamer) |
 | [Mastering Diverse Domains through World Models](https://arxiv.org/abs/2301.04104) | 2301.04104 | [Nature 2025](https://doi.org/10.1038/s41586-025-08744-2) | [danijar/dreamerv3](https://github.com/danijar/dreamerv3)<br>[NM512/dreamerv3-torch](https://github.com/NM512/dreamerv3-torch) (unofficial) |
 | [TD-MPC2: Scalable, Robust World Models for Continuous Control](https://arxiv.org/abs/2310.16828) | 2310.16828 | ICLR 2024 | [nicklashansen/tdmpc2](https://github.com/nicklashansen/tdmpc2) |
 | [Port-Hamiltonian Neural ODE Networks on Lie Groups For Robot Dynamics Learning and Control](https://arxiv.org/abs/2401.09520) | 2401.09520 | [IEEE Transactions on Robotics 2024](https://doi.org/10.1109/TRO.2024.3428433) | [thaipduong/LieGroupHamDL](https://github.com/thaipduong/LieGroupHamDL) |
-| [Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](https://arxiv.org/abs/2501.10100) | 2501.10100 |  | [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model) |
+| [Robotic World Model: A Neural Network Simulator for Robust Policy Optimization in Robotics](https://arxiv.org/abs/2501.10100) | 2501.10100 |  | [leggedrobotics/robotic_world_model](https://github.com/leggedrobotics/robotic_world_model)<br>[leggedrobotics/robotic_world_model_lite](https://github.com/leggedrobotics/robotic_world_model_lite) (unofficial) |
 | [Training Agents Inside of Scalable World Models](https://arxiv.org/abs/2509.24527) | 2509.24527 |  | [nicklashansen/dreamer4](https://github.com/nicklashansen/dreamer4) (unofficial)<br>[lucidrains/dreamer4](https://github.com/lucidrains/dreamer4) (unofficial) |
 | [PH-Dreamer: A Physics-Driven World Model via Port-Hamiltonian Generative Dynamics](https://arxiv.org/abs/2605.18303) | 2605.18303 |  |  |
 | [Koopman Dreamer: Spectrally Constrained Latent Dynamics for Stable World-Model Imagination](https://arxiv.org/abs/2607.19719) | 2607.19719 |  |  |
