@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 17 November 2026.
+Last updated: 18 November 2026.
 
 ## Surveys and position papers
 
@@ -109,6 +109,10 @@ The core joint-embedding predictive architectures and their training objectives 
 | [VISTA: A Framework for Vision-Informed Semantic Traffic Awareness](https://arxiv.org/abs/2611.20458) | 2611.20458 |  |  |
 | [WTR-Drive: World-Task Decomposition with Structured Risk Supervision for End-to-End Driving](https://arxiv.org/abs/2611.20510) | 2611.20510 |  | [xingxing9013605/WTR-Drive](https://github.com/xingxing9013605/WTR-Drive) |
 | [EviBridge: Encoding Predictive Visual Evidence for Proactive Interaction](https://arxiv.org/abs/2611.20916) | 2611.20916 |  |  |
+| [Can a World Model Predict a Deepfake Video? A Consistency Margin Prior for Deepfake Detection](https://arxiv.org/abs/2611.21846) | 2611.21846 |  |  |
+| [Escaping Latent Traps by Remembering: Training-Free Episodic Kernel Repulsion for World-Model Planning](https://arxiv.org/abs/2611.22470) | 2611.22470 |  |  |
+| [Testing World Models on Actions They Have Never Seen: Held-Out Plans, Forecast Accuracy and Price Rules in Retail](https://arxiv.org/abs/2611.22537) | 2611.22537 |  | [karthik-iyer-au/M-JEPA](https://github.com/karthik-iyer-au/M-JEPA) |
+| [Evolve in Panorama, Render in View: Panoramic World State Evolution for Video World Models](https://arxiv.org/abs/2611.22733) | 2611.22733 |  |  |
 
 ## Robotics and aerial applications
 
@@ -153,6 +157,8 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | [Real-Time Air Pollution Monitoring and Tracking via Adaptive Density-Driven Multi-UAV Coordination](https://arxiv.org/abs/2611.19703) | 2611.19703 |  |  |
 | [JEPTERA: A Platform Agnostic JEPA-Assisted Model Predictive Planner for Urban UAV Navigation](https://arxiv.org/abs/2611.20593) | 2611.20593 |  |  |
 | [Hierarchical Regime-Conditioned Dynamics for Spatiotemporal Graphs](https://arxiv.org/abs/2611.20835) | 2611.20835 |  | [JerBaf/HERON](https://github.com/JerBaf/HERON) |
+| [JointGV: Structure-Aware Correction of Visual World Models with Parallel Graph Dynamics for Long-Horizon Modeling](https://arxiv.org/abs/2611.22543) | 2611.22543 |  | JasonLvernex/Joint_Graph_Vedio_Latent_Dynamic_World_Model (announced, not public yet) |
+| [Fly as Instructed: Refining World-Action Policies for UAV Vision-Language Navigation](https://arxiv.org/abs/2611.22883) | 2611.22883 |  |  |
 
 ## Action-conditioned models and planning
 
@@ -218,6 +224,11 @@ Models that predict the effect of actions and are used for planning or policy le
 | [Prediction or Persistence? What Future-Prediction Scores Miss About World Models](https://arxiv.org/abs/2611.15082) | 2611.15082 |  |  |
 | [PerturbJEPA: Joint-Embedding Predictive Learning of Cellular Perturbation Responses](https://arxiv.org/abs/2611.20575) | 2611.20575 |  | [BGI-Hangzhou-OmicsAI/PerturbJEPA](https://github.com/BGI-Hangzhou-OmicsAI/PerturbJEPA) |
 | [Lazy-MOSAIC: Accelerating Skill-Centric Manipulation Planning with Learned Skill-Effect World Models](https://arxiv.org/abs/2611.21517) | 2611.21517 |  |  |
+| [WM-Quant: Rollout-Aware Post-Training Quantization for JEPA-Style World Models](https://arxiv.org/abs/2611.21882) | 2611.21882 |  |  |
+| [ReLAP: Latent Action Pretraining through Recurrent Video Prediction in JEPA Space](https://arxiv.org/abs/2611.22077) | 2611.22077 |  |  |
+| [Perception into Imagination: Executable Memory for World Models](https://arxiv.org/abs/2611.22294) | 2611.22294 |  |  |
+| [Manufacturing Differential Sparsity: Planner-Hardware Co-Design for Efficient World Model Planning](https://arxiv.org/abs/2611.22483) | 2611.22483 |  |  |
+| [Progress Predicts Policy](https://arxiv.org/abs/2611.22491) | 2611.22491 |  |  |
 
 ## Latent dynamics, physics structure and theory
 
@@ -284,6 +295,9 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling](https://arxiv.org/abs/2611.16647) | 2611.16647 |  |  |
 | [BoBDeLaN: Bounded-Bandwidth Context Adaptation for Deep Lagrangian Robot Control](https://arxiv.org/abs/2611.21209) | 2611.21209 |  |  |
 | [SADL: On the Demand-Supply Geometry of Representation Collapse](https://arxiv.org/abs/2611.21596) | 2611.21596 |  |  |
+| [Inertial Video World Models](https://arxiv.org/abs/2611.22314) | 2611.22314 |  |  |
+| [Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2611.22880) | 2611.22880 |  |  |
+| [SpikWM: Efficient End-to-End Spiking World Modeling for Visual Planning](https://arxiv.org/abs/2611.22981) | 2611.22981 |  | ShawnYE618/SpikWM (announced, not public yet) |
 
 ## 3D, spatial and object-centric models
 
@@ -336,6 +350,8 @@ Point-cloud, depth, LiDAR, 3D-scene, object-centric and graph-structured predict
 | [CoCode-World: Shared 3D Proxy Representation for Multi-Player World Models](https://arxiv.org/abs/2611.15602) | 2611.15602 |  |  |
 | [Spatial Foundry: A Multimodal Dataset for Spatial Intelligence](https://arxiv.org/abs/2611.17318) | 2611.17318 |  |  |
 | [ResWAM: Learning What Changes, Not What Stays, for World-Action Models](https://arxiv.org/abs/2611.19559) | 2611.19559 |  | [OPTML-Group/ResWAM](https://github.com/OPTML-Group/ResWAM) |
+| [FailureGen: Scalable Robot Failure Data Generation with World Models](https://arxiv.org/abs/2611.22367) | 2611.22367 |  |  |
+| [CascadeJEPA: Enhancing 3D Geometric Representations via Spatially Coupled Cascaded Prediction](https://arxiv.org/abs/2611.22686) | 2611.22686 |  |  |
 
 ## Related non-JEPA world models
 
