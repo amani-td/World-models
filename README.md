@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 20 November 2026.
+Last updated: 23 November 2026.
 
 ## Surveys and position papers
 
@@ -115,12 +115,13 @@ The core joint-embedding predictive architectures and their training objectives 
 | [Evolve in Panorama, Render in View: Panoramic World State Evolution for Video World Models](https://arxiv.org/abs/2611.22733) | 2611.22733 |  |  |
 | [DOCK: Dual-Stream-Inspired Self-Supervised Object-Centric Representations Grounded in Robot Kinematics](https://arxiv.org/abs/2611.23578) | 2611.23578 |  |  |
 | [Embodied Graph: A Relational World Model for Long-Horizon Tasks](https://arxiv.org/abs/2611.24115) | 2611.24115 |  |  |
-| [Counterfactual World Models: JEPAs That Reason About "What If"](https://arxiv.org/abs/2611.24778) | 2611.24778 |  | galilai-group/counterfactual-WM (announced, not public yet) |
+| [Counterfactual World Models: JEPAs That Reason About "What If"](https://arxiv.org/abs/2611.24778) | 2611.24778 |  | [galilai-group/counterfactual-WM](https://github.com/galilai-group/counterfactual-WM) |
 | [MV-JEPA: Post-Training Video Encoders for Cross-View Understanding](https://arxiv.org/abs/2611.25172) | 2611.25172 |  |  |
 | [Search or Scoring? Diagnosing Why Visual World-Model Planners Fail](https://arxiv.org/abs/2611.25347) | 2611.25347 |  |  |
 | [Stuck in Place: Stall Diagnosis and Remedies for JEPA Planners](https://arxiv.org/abs/2611.25415) | 2611.25415 |  | [jhlee0619/unstick](https://github.com/jhlee0619/unstick) |
 | [LATER: Learning Action-Conditioned Temporal Evidence Retrieval for Predictive World Models](https://arxiv.org/abs/2611.25671) | 2611.25671 |  |  |
 | [How to Effectively Manage the Energy in Residential Systems: Development and Comparison of Methods](https://arxiv.org/abs/2611.26412) | 2611.26412 |  | [EVERGi/treec-paper-results](https://github.com/EVERGi/treec-paper-results) |
+| [Seeing Is Not Steering: Where Verifiable Reasoning Can Enter an End-to-End Driving Planner](https://arxiv.org/abs/2611.27638) | 2611.27638 |  |  |
 
 ## Robotics and aerial applications
 
@@ -227,7 +228,7 @@ Models that predict the effect of actions and are used for planning or policy le
 | [Time-to-Goal: Learned Temporal Metrics for Long-Horizon Planning with JEPA World Models](https://arxiv.org/abs/2611.05847) | 2611.05847 |  | [yrluestc/T2G-JEPA](https://github.com/yrluestc/T2G-JEPA) |
 | [MAC-v2: Long-horizon model-based value expansion from pixels](https://arxiv.org/abs/2611.07245) | 2611.07245 |  |  |
 | [Learning Robotic World Models with Semantic and Visual Feedback](https://arxiv.org/abs/2611.07850) | 2611.07850 |  | [Alexander-wu/RoboImagine](https://github.com/Alexander-wu/RoboImagine) |
-| [La-JEPA: Compact Robot Policies with Latent World Modeling](https://arxiv.org/abs/2611.08156) | 2611.08156 |  | [mt-clemente/lajepa](https://github.com/mt-clemente/lajepa) |
+| [La-JEPA: Compact Robot Policies with Latent World Modeling](https://arxiv.org/abs/2611.08156) | 2611.08156 |  | [mt-clemente/lajepa](https://github.com/mt-clemente/lajepa)<br>[weibinlee2024/LA-JEPA-LI](https://github.com/weibinlee2024/LA-JEPA-LI) (unofficial) |
 | [Dynamics-Informed Action Learning for Goal-Conditioned Latent Planning](https://arxiv.org/abs/2611.10660) | 2611.10660 |  |  |
 | [WARP-JEPA: World-Model-in-the-Loop Amortized Rollout Planning for Frozen Hierarchical Joint-Embedding Predictive Architectures](https://arxiv.org/abs/2611.10806) | 2611.10806 |  | [hideinsewer/WARP-JEPA](https://github.com/hideinsewer/WARP-JEPA) |
 | [K-PWM: Control-Oriented Structured Bilinear World Models under Partial Observation](https://arxiv.org/abs/2611.11521) | 2611.11521 | NeurIPS 2026 (accepted) | [santoshrajkumar/k-pwm-world-model-control](https://github.com/santoshrajkumar/k-pwm-world-model-control) |
@@ -257,6 +258,7 @@ Models that predict the effect of actions and are used for planning or policy le
 | [CauSyncVLA: Causal Latent World Modeling for Asynchronous Robot Control](https://arxiv.org/abs/2611.25667) | 2611.25667 |  |  |
 | [Fast-JEPA: Advancing the Success-Latency Frontier for Latent World Models](https://arxiv.org/abs/2611.25927) | 2611.25927 |  | [Sofilyzia/Fast-JEPA](https://github.com/Sofilyzia/Fast-JEPA) |
 | [Learning What Actions Change: Action Effect Matching for Dynamics-Faithful World Models](https://arxiv.org/abs/2611.25980) | 2611.25980 |  |  |
+| [Efficient VLA Reinforcement Learning via Subchunk Rollouts in Latent World Models](https://arxiv.org/abs/2611.27645) | 2611.27645 |  |  |
 
 ## Latent dynamics, physics structure and theory
 
@@ -287,7 +289,7 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [D-JEPA: Design-Recoverable JEPA Representation with Swappable Physics Decoders](https://arxiv.org/abs/2609.33110) | 2609.33110 |  |  |
 | [Hamiltonian JEPA: Action-Conditioned World Models with an Inherited Control State](https://arxiv.org/abs/2609.33497) | 2609.33497 |  | [tmz-lab/hjepa](https://github.com/tmz-lab/hjepa) |
 | [Bilinear World Models: Learning Representations with Structured Dynamics for Efficient Control](https://arxiv.org/abs/2609.36305) | 2609.36305 |  |  |
-| [JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts](https://arxiv.org/abs/2610.00722) | 2610.00722 | NeurIPS 2026 Workshop on World Models in Physical AI |  |
+| [JEPA-TTT: Persistent Test-Time Training of Latent World Models for Planning under Dynamics Shifts](https://arxiv.org/abs/2610.00722) | 2610.00722 | NeurIPS 2026 Workshop on World Models in Physical AI | [ZhengQingJing/jepa-ttt-reproduction](https://github.com/ZhengQingJing/jepa-ttt-reproduction) (unofficial) |
 | [AVL-JEPA: Preventing Causal Dynamics Information Collapse In Joint Embedding Predictive Architecture World Models](https://arxiv.org/abs/2610.03587) | 2610.03587 |  |  |
 | [Frozen in a Frame: The Velocity Blind Spot in JEPA World Models](https://arxiv.org/abs/2610.04585) | 2610.04585 |  | [OliverZ-dot/TI-JEPA](https://github.com/OliverZ-dot/TI-JEPA) |
 | [Preserving Unstable Modes Through Inverse Dynamics in JEPA World Models](https://arxiv.org/abs/2610.07540) | 2610.07540 |  | [LeoToso/JEPA_control](https://github.com/LeoToso/JEPA_control) |
@@ -322,13 +324,13 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [Asymmetric Multimodal Learning with Decomposed JEPAs](https://arxiv.org/abs/2611.16639) | 2611.16639 |  | [Vixel2006/D-JEPA](https://github.com/Vixel2006/D-JEPA) |
 | [InertiaMPDD: Multimodal Personalized Depression Detection via Emotional Inertia-Inspired Dynamics Modeling](https://arxiv.org/abs/2611.16647) | 2611.16647 |  |  |
 | [BoBDeLaN: Bounded-Bandwidth Context Adaptation for Deep Lagrangian Robot Control](https://arxiv.org/abs/2611.21209) | 2611.21209 |  |  |
-| [SADL: On the Demand-Supply Geometry of Representation Collapse](https://arxiv.org/abs/2611.21596) | 2611.21596 |  |  |
+| [SADL: On the Demand-Supply Geometry of Representation Collapse](https://arxiv.org/abs/2611.21596) | 2611.21596 |  | [zju3dv/SADL](https://github.com/zju3dv/SADL) |
 | [Inertial Video World Models](https://arxiv.org/abs/2611.22314) | 2611.22314 |  |  |
 | [Learning Agent-Centric Vision-Language-Action World Models for Autonomous Driving](https://arxiv.org/abs/2611.22880) | 2611.22880 |  |  |
 | [SpikWM: Efficient End-to-End Spiking World Modeling for Visual Planning](https://arxiv.org/abs/2611.22981) | 2611.22981 |  | ShawnYE618/SpikWM (announced, not public yet) |
 | [JEPA for astronomy: multi-survey spectral alignment puts stellar parameters on the leading principal axes](https://arxiv.org/abs/2611.23492) | 2611.23492 |  | Xiaosheng-Zhao/Multi-survey-Spectral-Alignment-with-JEPA (announced, not public yet) |
 | [Risk-Triggered Search: Behavior-Preserving Safe Control](https://arxiv.org/abs/2611.24409) | 2611.24409 |  |  |
-| [Reconstruction vs. Prediction Pre-Training of Discrete Video Representations for Continuous Control](https://arxiv.org/abs/2611.24781) | 2611.24781 |  |  |
+| [Reconstruction vs. Prediction Pre-Training of Discrete Video Representations for Continuous Control](https://arxiv.org/abs/2611.24781) | 2611.24781 |  | [rkosova/reprod_vs_semantic](https://github.com/rkosova/reprod_vs_semantic) (unofficial) |
 | [MADJEPA: Enhanced Multi-Stage Joint-Embedding Predictive Architecture for Medical Anomaly Detection](https://arxiv.org/abs/2611.25194) | 2611.25194 |  | [Sabina085/madjepa](https://github.com/Sabina085/madjepa) |
 | [DS3M: Deep structured state space models for nonlinear system identification on modern hardware](https://arxiv.org/abs/2611.25274) | 2611.25274 |  |  |
 | [PRIO: Pre-trained Representation for Interactive Objects in 4D Worlds](https://arxiv.org/abs/2611.25500) | 2611.25500 |  |  |
@@ -391,6 +393,7 @@ Point-cloud, depth, LiDAR, 3D-scene, object-centric and graph-structured predict
 | [Hierarchical Spatiotemporal World Modeling with Content-Adaptive Spatial Addressing](https://arxiv.org/abs/2611.25610) | 2611.25610 |  |  |
 | [Point Dynamics as Proxy for Robotic World Models](https://arxiv.org/abs/2611.25946) | 2611.25946 |  |  |
 | [Plan4D: Generative Plannable 4D Worlds](https://arxiv.org/abs/2611.26516) | 2611.26516 |  |  |
+| [SOAR: Training-Free Rank-Consistent Rollout Compression for Latent World Model Planning](https://arxiv.org/abs/2611.27639) | 2611.27639 |  | [starrywiki/SOAR](https://github.com/starrywiki/SOAR) |
 
 ## Related non-JEPA world models
 
