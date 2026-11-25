@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 24 November 2026.
+Last updated: 25 November 2026.
 
 ## Surveys and position papers
 
@@ -129,6 +129,10 @@ The core joint-embedding predictive architectures and their training objectives 
 | [Assembly-JEPA: Using World Models for Fine-Grained Industrial Image Verification](https://arxiv.org/abs/2611.30530) | 2611.30530 |  |  |
 | [World Models as Native Latent Action Models](https://arxiv.org/abs/2611.30898) | 2611.30898 |  |  |
 | [LeCellModel: Interpretable Density Estimation over the Gene Expression Manifold](https://arxiv.org/abs/2611.30955) | 2611.30955 |  | [gilk717/lecellmodel_paper](https://github.com/gilk717/lecellmodel_paper) |
+| [Gaze World Model](https://arxiv.org/abs/2611.31836) | 2611.31836 |  |  |
+| [JECT: Addressing the Context Shortcut in Joint-Embedding Predictive Learning for Chest CT](https://arxiv.org/abs/2611.31849) | 2611.31849 |  | [lukeingawesome/JECT](https://github.com/lukeingawesome/JECT) |
+| [Interactive Neural Computers](https://arxiv.org/abs/2611.32811) | 2611.32811 |  |  |
+| [Hybrid AI for AI-Native RAN Control: A Functional Perspective](https://arxiv.org/abs/2611.33035) | 2611.33035 |  | [pegahani/Hybrid-AI-RAN-Survey](https://github.com/pegahani/Hybrid-AI-RAN-Survey) |
 
 ## Robotics and aerial applications
 
@@ -185,6 +189,11 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | [One Prior, Two Dynamics: Repurposing Video Diffusion Transformers for Self-Supervised Latent Action Learning](https://arxiv.org/abs/2611.26617) | 2611.26617 |  | [showlab/o2laf](https://github.com/showlab/o2laf) |
 | [Prompt-Consistent Cross-View Object Geo-Localization](https://arxiv.org/abs/2611.29312) | 2611.29312 |  | [Sunny-Fresher/CVOGL-MO](https://github.com/Sunny-Fresher/CVOGL-MO) |
 | [Can Multimodal Fusion MakeSense for Embodied Vision in Degraded Sensing?](https://arxiv.org/abs/2611.30836) | 2611.30836 |  |  |
+| [Learning Agent States for Latent Action Modeling](https://arxiv.org/abs/2611.32017) | 2611.32017 |  | [Mid-Push/Agent-State-LAM](https://github.com/Mid-Push/Agent-State-LAM) |
+| [PhysRF-WorldJEPA: Transforming Heterogeneous Large Language Models into Manifold-Decoupled Millimeter-Wave Radar World Models](https://arxiv.org/abs/2611.32113) | 2611.32113 |  |  |
+| [Relation Before Action: Explicit Relation Modeling for Latent Action Pretraining](https://arxiv.org/abs/2611.32226) | 2611.32226 |  |  |
+| [DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation](https://arxiv.org/abs/2611.32654) | 2611.32654 |  |  |
+| [Learning World Models through Contrastive Identification of Actions](https://arxiv.org/abs/2611.32776) | 2611.32776 |  |  |
 
 ## Action-conditioned models and planning
 
@@ -278,6 +287,11 @@ Models that predict the effect of actions and are used for planning or policy le
 | [How Latent Transition Geometry Matters for Planning in World Models](https://arxiv.org/abs/2611.30064) | 2611.30064 |  |  |
 | [Zhengrong: World Models with Pole-Based Action-Response Factorization for Direct Visual Planning](https://arxiv.org/abs/2611.30666) | 2611.30666 |  |  |
 | [DexLatentWorld: 3D Cross-Embodiment Latent Action World Models for Zero-Shot Robotic Manipulation](https://arxiv.org/abs/2611.30907) | 2611.30907 |  |  |
+| [RoboProbe: Benchmarking Physical Plausibility of Robot World Models](https://arxiv.org/abs/2611.32152) | 2611.32152 |  |  |
+| [Disentangling Visual Dynamics for World Model Planning](https://arxiv.org/abs/2611.32228) | 2611.32228 |  |  |
+| [CriticJEPA: World Models Are Better Critics Than Optimizers](https://arxiv.org/abs/2611.32357) | 2611.32357 |  | daybraeklaxry/CriticJEPA-code (announced, not public yet) |
+| [EEG-World: Context-Conditioned Dynamics of the Watching Brain](https://arxiv.org/abs/2611.32825) | 2611.32825 |  |  |
+| [iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction](https://arxiv.org/abs/2611.33141) | 2611.33141 |  |  |
 
 ## Latent dynamics, physics structure and theory
 
@@ -363,6 +377,7 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [Seeing Together, Acting Apart: Shared Environmental Understanding for Multi-Robot Navigation](https://arxiv.org/abs/2611.30310) | 2611.30310 |  |  |
 | [ActField: Learning Action Effects as Continuous-Time Latent Dynamics](https://arxiv.org/abs/2611.30659) | 2611.30659 |  |  |
 | [AeroJEPA: A Two-Stage Framework for Aerosol Forecasting with Joint-Embedding Predictive Learning](https://arxiv.org/abs/2611.30891) | 2611.30891 |  |  |
+| [ReJEPA: Bounded Predictive Regulation for Latent World Models](https://arxiv.org/abs/2611.31910) | 2611.31910 |  |  |
 
 ## 3D, spatial and object-centric models
 
@@ -428,6 +443,14 @@ Point-cloud, depth, LiDAR, 3D-scene, object-centric and graph-structured predict
 | [One Latent World for Heterogeneous LiDARs: A Scan Pattern Agnostic 4D World Model via Direct Ray Decoding](https://arxiv.org/abs/2611.30007) | 2611.30007 |  |  |
 | [MOVER: Planning Beyond Motion](https://arxiv.org/abs/2611.30022) | 2611.30022 |  |  |
 | [SWAM: State-aware World Action Model for Multi-Agent 3D Environments](https://arxiv.org/abs/2611.30042) | 2611.30042 |  |  |
+| [FoveaWAM: Role-Aware 4D World-Action Modeling for Dynamic Manipulation](https://arxiv.org/abs/2611.31705) | 2611.31705 |  |  |
+| [Dreamcatcher: Remembering What Surprises a World Model in Video Streams](https://arxiv.org/abs/2611.31765) | 2611.31765 |  |  |
+| [DraftKV: Protecting Persistent Worlds through Hierarchical Streaming Retrieval](https://arxiv.org/abs/2611.31944) | 2611.31944 |  | [TillyEndless/DraftKV](https://github.com/TillyEndless/DraftKV) |
+| [SPAR: Self-Referenced World-Model Rewards for Physical Alignment in Video Generation](https://arxiv.org/abs/2611.31958) | 2611.31958 |  |  |
+| [Do Occupancy World Models Really Follow Actions?](https://arxiv.org/abs/2611.32029) | 2611.32029 |  |  |
+| [SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding](https://arxiv.org/abs/2611.32054) | 2611.32054 |  |  |
+| [OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution](https://arxiv.org/abs/2611.32473) | 2611.32473 |  |  |
+| [MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving](https://arxiv.org/abs/2611.32745) | 2611.32745 |  |  |
 
 ## Related non-JEPA world models
 
