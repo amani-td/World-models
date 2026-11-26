@@ -22,7 +22,7 @@ Papers are grouped by topic. Within each group they are ordered by arXiv identif
 - **Published** gives the journal or conference version, with its DOI or proceedings link. An empty cell means no peer-reviewed version was found. "(accepted)" marks papers accepted at a venue whose proceedings had not appeared yet.
 - **Code** gives the authors' repository, taken from the paper itself, its Hugging Face page, or the authors' own GitHub project. "(announced, not public yet)" means the paper names a repository that is not online yet. Repositories marked *(unofficial)* are by other people and cite the paper in their README; they have not been checked for correctness. An empty cell means no code was found.
 
-Last updated: 25 November 2026.
+Last updated: 26 November 2026.
 
 ## Surveys and position papers
 
@@ -194,6 +194,10 @@ World models used on robots, drones, underwater vehicles and in driving, e.g. DI
 | [Relation Before Action: Explicit Relation Modeling for Latent Action Pretraining](https://arxiv.org/abs/2611.32226) | 2611.32226 |  |  |
 | [DexWAC: A Unified World-Actor-Critic Model for Dexterous Robot Manipulation](https://arxiv.org/abs/2611.32654) | 2611.32654 |  |  |
 | [Learning World Models through Contrastive Identification of Actions](https://arxiv.org/abs/2611.32776) | 2611.32776 |  |  |
+| [Model Predictive Control of a Multirotor UAV with a Cable-Suspended Payload: A Comparison of Shifted and Transformer-Based Warm Starts](https://arxiv.org/abs/2611.33514) | 2611.33514 |  |  |
+| [Normalizing Flows are Capable World Models](https://arxiv.org/abs/2611.33872) | 2611.33872 |  | peter-lizijia/nfwm (announced, not public yet) |
+| [Ask to Land: Learning a Mask-Conditioned Open-Vocabulary Landing Policy via Differentiable Physics](https://arxiv.org/abs/2611.34020) | 2611.34020 | [IEEE RA-L 2026](https://doi.org/10.1109/lra.2026.3742269) |  |
+| [A Simple Yet Effective Agent for Open-World Aerial Object Search](https://arxiv.org/abs/2611.34115) | 2611.34115 |  |  |
 
 ## Action-conditioned models and planning
 
@@ -292,6 +296,12 @@ Models that predict the effect of actions and are used for planning or policy le
 | [CriticJEPA: World Models Are Better Critics Than Optimizers](https://arxiv.org/abs/2611.32357) | 2611.32357 |  | daybraeklaxry/CriticJEPA-code (announced, not public yet) |
 | [EEG-World: Context-Conditioned Dynamics of the Watching Brain](https://arxiv.org/abs/2611.32825) | 2611.32825 |  |  |
 | [iWAM: Efficient Action Prediction from World Models without Explicit Future Prediction](https://arxiv.org/abs/2611.33141) | 2611.33141 |  |  |
+| [Improving Building Energy Efficiency with an Indoor Environmental World Model and Counterfactual Adaptive Learning](https://arxiv.org/abs/2611.33764) | 2611.33764 |  |  |
+| [Beyond the Happy Path: Generalizing Robot World Models from Simulated Failures](https://arxiv.org/abs/2611.33925) | 2611.33925 |  | [aim-uofa/WorldReforge](https://github.com/aim-uofa/WorldReforge) |
+| [CARE-WM: Same-Horizon Self-Conditioning with Constraint-Adaptive Regularization for Latent World Models](https://arxiv.org/abs/2611.34054) | 2611.34054 |  | KaidRommel/CARE-WM (announced, not public yet) |
+| [Co-World Model for Human-Video-to-Robot Transfer via Co-Constructed Shared Latent Dynamics](https://arxiv.org/abs/2611.34302) | 2611.34302 |  |  |
+| [Long-Horizon Planning with Latent World Models via Graph Anchors](https://arxiv.org/abs/2611.34509) | 2611.34509 |  | [syed-nazmus-sakib/graph-anchors](https://github.com/syed-nazmus-sakib/graph-anchors) |
+| [Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models](https://arxiv.org/abs/2611.34830) | 2611.34830 |  |  |
 
 ## Latent dynamics, physics structure and theory
 
@@ -378,6 +388,8 @@ Structured latent dynamics (Hamiltonian, symplectic, Koopman, bilinear, semigrou
 | [ActField: Learning Action Effects as Continuous-Time Latent Dynamics](https://arxiv.org/abs/2611.30659) | 2611.30659 |  |  |
 | [AeroJEPA: A Two-Stage Framework for Aerosol Forecasting with Joint-Embedding Predictive Learning](https://arxiv.org/abs/2611.30891) | 2611.30891 |  |  |
 | [ReJEPA: Bounded Predictive Regulation for Latent World Models](https://arxiv.org/abs/2611.31910) | 2611.31910 |  |  |
+| [VivaWorld: Long-Horizon Video World Model With Compositional 3D Priors](https://arxiv.org/abs/2611.33591) | 2611.33591 |  |  |
+| [SCO-Hyper-Meta-Double-GroupNN: A Double-Group SU(2) Hyper-/Meta-Graph Neural Network for Cooperative Spin-Crossover Potential Energy Surfaces](https://arxiv.org/abs/2611.34547) | 2611.34547 |  |  |
 
 ## 3D, spatial and object-centric models
 
@@ -451,6 +463,10 @@ Point-cloud, depth, LiDAR, 3D-scene, object-centric and graph-structured predict
 | [SurgGenesis: A Generative Surgical World Model for Future-Aware Surgical Understanding](https://arxiv.org/abs/2611.32054) | 2611.32054 |  |  |
 | [OmniPersist: Persistent Dynamic World Modeling via Coupled Panoramic Evolution](https://arxiv.org/abs/2611.32473) | 2611.32473 |  |  |
 | [MemAnchorWorld: A Sparse World Model with Horizon-Conditioned Memory Retrieval for Autonomous Driving](https://arxiv.org/abs/2611.32745) | 2611.32745 |  |  |
+| [DreamTour: Layout Steering for Training-Free World Exploration](https://arxiv.org/abs/2611.33378) | 2611.33378 |  |  |
+| [SplatWAM: Splatting World Action Models for Real-Time 3D Imagination](https://arxiv.org/abs/2611.33467) | 2611.33467 |  |  |
+| [Aegis-VLA: Reliability-Gated Action Refinement via a Trajectory World Model for Dynamic Object Manipulation](https://arxiv.org/abs/2611.33993) | 2611.33993 |  |  |
+| [Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics](https://arxiv.org/abs/2611.34644) | 2611.34644 |  |  |
 
 ## Related non-JEPA world models
 
